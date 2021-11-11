@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+#card{
+    height: 20rem;
+    width: auto;
+    display: grid;
+    
+}
+
+#image_card{
+    height: 10rem;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#btn_generate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
